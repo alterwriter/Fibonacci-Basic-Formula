@@ -2,4 +2,4 @@
 
 <h3>you can meet this explanation on my Medium</h3>
 
-<b>https://clonewriter.medium.com</b>
+<a href:"https://clonewriter.medium.com/fibonacci-everything-aboutgolden-ratio-and-god-value-logic-explained-f258c4140c68"> clonewriter medium</a>
