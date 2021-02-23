@@ -1,4 +1,5 @@
 # Fibonacci-Basic-Formula
+![image](https://user-images.githubusercontent.com/56288323/108895421-20804e80-7646-11eb-9060-f8a5f79856f5.png)
 
 <h3>you can meet this explanation on my Medium</h3>
 
